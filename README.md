@@ -10,4 +10,8 @@ Python + Pygame - основной движок
 Tiled - создание карт (.tmx)
 
 Как запускать:
+необходимые библиотеки:
+pygame
+pytmx
+
 открыть файл game.py в любом ide python
