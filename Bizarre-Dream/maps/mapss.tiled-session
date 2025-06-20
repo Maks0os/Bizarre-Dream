@@ -1,0 +1,102 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maph.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "Appart.tsx": {
+            "scaleInDock": 1
+        },
+        "Appartment_B.tsx": {
+            "scaleInDock": 1
+        },
+        "Enemy_ob.tsx": {
+            "scaleInDock": 1
+        },
+        "apap.tsx": {
+            "scaleInDock": 1
+        },
+        "map1.tmx": {
+            "expandedObjectLayers": [
+                4,
+                6
+            ],
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 464.66666666666663,
+                "y": 79.33333333333331
+            }
+        },
+        "map3.tmx": {
+            "expandedObjectLayers": [
+                3,
+                5,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 260.66666666666663,
+                "y": 410.66666666666663
+            }
+        },
+        "map_home.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 463.75,
+                "y": 399.5
+            }
+        },
+        "maph.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 11,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 505,
+                "y": 354
+            }
+        },
+        "mapl.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 437.3333333333333,
+                "y": 464.66666666666663
+            }
+        }
+    },
+    "map.height": 32,
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": "3",
+    "map.width": 32,
+    "openFiles": [
+        "maph.tmx",
+        "map1.tmx",
+        "mapl.tmx"
+    ],
+    "project": "mapss.tiled-project",
+    "recentFiles": [
+        "mapl.tmx",
+        "map1.tmx",
+        "maph.tmx",
+        "map3.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
